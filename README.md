@@ -7,8 +7,7 @@ Whois:
 - :seedling:  open technologies make our world better
 - :mailbox:  best way to ask about my projects is via GitHub issues
 - :a:  website: [antelle.net](https://antelle.net/)
-- :email:  email: antelle.net@gmail.com
-- :woman_shrugging:  is my favorite emoji
+- :email:  e-mail: antelle.net@gmail.com
 
 Open-source things I made:
 - :old_key:  [keeweb](https://github.com/keeweb/keeweb), a free password manger compatible with KeePass
