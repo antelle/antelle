@@ -5,7 +5,7 @@ Whois:
 - :hammer:  most of my open-source is in JavaScript
 - :spider_web:  always learning Web _Something_
 - :seedling:  open technologies make our world better
-- :mailbox:  best way to ask me about my projects is via GitHub issues
+- :mailbox:  best way to ask about my projects is via GitHub issues
 - :a:  website: [antelle.net](https://antelle.net/)
 - :email:  email: antelle.net@gmail.com
 - :woman_shrugging:  is my favorite emoji
