@@ -9,7 +9,7 @@ Whois:
 - :a:  website: [antelle.net](https://antelle.net/)
 - :email:  e-mail: antelle.net@gmail.com
 
-Open-source things I made:
+Open-source projects I made:
 - :old_key:  [keeweb](https://github.com/keeweb/keeweb), a free password manger compatible with KeePass
 - :closed_lock_with_key:  [kdbxweb](https://github.com/keeweb/kdbxweb), a javascript library for working with KDBX files
 - :writing_hand:  [argon2-browser](https://antelle.net/argon2-browser), argon2 password hashing function compiled to WebAssembly
