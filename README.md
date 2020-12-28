@@ -15,4 +15,4 @@ Open-source projects I made:
 - :writing_hand:  [argon2-browser](https://github.com/antelle/argon2-browser), argon2 password hashing function compiled to WebAssembly
 - :package:  [node-stream-zip](https://github.com/antelle/node-stream-zip), a node.js library for reading huge ZIP archives
 - :nail_care:  [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme), a dark theme for IntelliJ IDEA inspired by Xcode
-- :electron:  electron stuff:  [evil feature patcher](https://github.com/antelle/electron-evil-feature-patcher), [secure enclave](https://github.com/antelle/node-secure-enclave)
+- :electron:  for Electron:  [evil feature patcher](https://github.com/antelle/electron-evil-feature-patcher), [secure enclave](https://github.com/antelle/node-secure-enclave)
