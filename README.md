@@ -2,7 +2,7 @@
 
 Whois:
 - :moneybag:  full-stack developer @ booking.com
-- :hammer:  most of my open-source is in JavaScript
+- :hammer:  most of my open-source is in JavaScript and C++
 - :spider_web:  always learning WebThis or WebThat
 - :seedling:  open technologies make our world better
 - :mailbox:  best way to ask about my projects is via GitHub issues
