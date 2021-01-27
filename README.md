@@ -16,3 +16,4 @@ Open-source projects I made:
 - :package:  [node-stream-zip](https://github.com/antelle/node-stream-zip), a node.js library for reading huge ZIP archives
 - :nail_care:  [intellij-xcode-dark-theme](https://github.com/antelle/intellij-xcode-dark-theme), a dark theme for IntelliJ IDEA inspired by Xcode
 - :electron:  for Electron:  [evil feature patcher](https://github.com/antelle/electron-evil-feature-patcher), [secure enclave](https://github.com/antelle/node-secure-enclave)
+- :keyboard:  [keyboard-auto-type](https://github.com/antelle/keyboard-auto-type), cross-platform keyboard input simulator
